@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Saiganeshk15.github.io/yipee-recipe/static/css/main.911957e8.css",
-    "main.js": "/Saiganeshk15.github.io/yipee-recipe/static/js/main.5ef03d66.js",
-    "index.html": "/Saiganeshk15.github.io/yipee-recipe/index.html",
-    "main.911957e8.css.map": "/Saiganeshk15.github.io/yipee-recipe/static/css/main.911957e8.css.map",
-    "main.5ef03d66.js.map": "/Saiganeshk15.github.io/yipee-recipe/static/js/main.5ef03d66.js.map"
+    "main.css": "/yipee-recipe/static/css/main.911957e8.css",
+    "main.js": "/yipee-recipe/static/js/main.b2e7b7ee.js",
+    "index.html": "/yipee-recipe/index.html",
+    "main.911957e8.css.map": "/yipee-recipe/static/css/main.911957e8.css.map",
+    "main.b2e7b7ee.js.map": "/yipee-recipe/static/js/main.b2e7b7ee.js.map"
   },
   "entrypoints": [
     "static/css/main.911957e8.css",
-    "static/js/main.5ef03d66.js"
+    "static/js/main.b2e7b7ee.js"
   ]
 }
