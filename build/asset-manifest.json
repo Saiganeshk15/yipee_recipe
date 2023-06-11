@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/yipee-recipe/static/css/main.911957e8.css",
+    "main.js": "/yipee-recipe/static/js/main.b2e7b7ee.js",
+    "index.html": "/yipee-recipe/index.html",
+    "main.911957e8.css.map": "/yipee-recipe/static/css/main.911957e8.css.map",
+    "main.b2e7b7ee.js.map": "/yipee-recipe/static/js/main.b2e7b7ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.911957e8.css",
+    "static/js/main.b2e7b7ee.js"
+  ]
+}

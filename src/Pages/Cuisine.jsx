@@ -35,7 +35,7 @@ function Cuisine() {
             </Link>
           </Card>
         )
-      })};
+      })}
     </Grid>
   )
 }
