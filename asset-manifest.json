@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/yipee_recipe/static/css/main.911957e8.css",
-    "main.js": "/yipee_recipe/static/js/main.3f7d6ef1.js",
+    "main.js": "/yipee_recipe/static/js/main.7d5e67bf.js",
     "index.html": "/yipee_recipe/index.html",
     "main.911957e8.css.map": "/yipee_recipe/static/css/main.911957e8.css.map",
-    "main.3f7d6ef1.js.map": "/yipee_recipe/static/js/main.3f7d6ef1.js.map"
+    "main.7d5e67bf.js.map": "/yipee_recipe/static/js/main.7d5e67bf.js.map"
   },
   "entrypoints": [
     "static/css/main.911957e8.css",
-    "static/js/main.3f7d6ef1.js"
+    "static/js/main.7d5e67bf.js"
   ]
 }
